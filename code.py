@@ -1,0 +1,1 @@
+print("mahendra") # type: ignore
